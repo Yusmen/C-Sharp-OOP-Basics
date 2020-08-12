@@ -1,0 +1,22 @@
+C:\Users\usmenzabanov\source\repos\LabDefiningClasses\BankAccount\bin\Debug\netcoreapp2.1\BankAccount.deps.json
+C:\Users\usmenzabanov\source\repos\LabDefiningClasses\BankAccount\bin\Debug\netcoreapp2.1\BankAccount.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\LabDefiningClasses\BankAccount\bin\Debug\netcoreapp2.1\BankAccount.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\LabDefiningClasses\BankAccount\bin\Debug\netcoreapp2.1\BankAccount.dll
+C:\Users\usmenzabanov\source\repos\LabDefiningClasses\BankAccount\bin\Debug\netcoreapp2.1\BankAccount.pdb
+C:\Users\usmenzabanov\source\repos\LabDefiningClasses\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\LabDefiningClasses\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\LabDefiningClasses\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\LabDefiningClasses\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.dll
+C:\Users\usmenzabanov\source\repos\LabDefiningClasses\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabDefiningClasses\BankAccount\bin\Debug\netcoreapp2.1\BankAccount.deps.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabDefiningClasses\BankAccount\bin\Debug\netcoreapp2.1\BankAccount.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabDefiningClasses\BankAccount\bin\Debug\netcoreapp2.1\BankAccount.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabDefiningClasses\BankAccount\bin\Debug\netcoreapp2.1\BankAccount.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabDefiningClasses\BankAccount\bin\Debug\netcoreapp2.1\BankAccount.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabDefiningClasses\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabDefiningClasses\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabDefiningClasses\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabDefiningClasses\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabDefiningClasses\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabDefiningClasses\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabDefiningClasses\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.genruntimeconfig.cache

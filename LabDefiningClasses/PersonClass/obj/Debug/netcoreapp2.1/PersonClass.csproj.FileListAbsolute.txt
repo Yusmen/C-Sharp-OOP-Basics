@@ -1,0 +1,10 @@
+C:\Users\usmenzabanov\source\repos\LabDefiningClasses\PersonClass\obj\Debug\netcoreapp2.1\PersonClass.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\LabDefiningClasses\PersonClass\obj\Debug\netcoreapp2.1\PersonClass.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\LabDefiningClasses\PersonClass\obj\Debug\netcoreapp2.1\PersonClass.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\LabDefiningClasses\PersonClass\bin\Debug\netcoreapp2.1\PersonClass.deps.json
+C:\Users\usmenzabanov\source\repos\LabDefiningClasses\PersonClass\bin\Debug\netcoreapp2.1\PersonClass.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\LabDefiningClasses\PersonClass\bin\Debug\netcoreapp2.1\PersonClass.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\LabDefiningClasses\PersonClass\bin\Debug\netcoreapp2.1\PersonClass.dll
+C:\Users\usmenzabanov\source\repos\LabDefiningClasses\PersonClass\bin\Debug\netcoreapp2.1\PersonClass.pdb
+C:\Users\usmenzabanov\source\repos\LabDefiningClasses\PersonClass\obj\Debug\netcoreapp2.1\PersonClass.dll
+C:\Users\usmenzabanov\source\repos\LabDefiningClasses\PersonClass\obj\Debug\netcoreapp2.1\PersonClass.pdb
