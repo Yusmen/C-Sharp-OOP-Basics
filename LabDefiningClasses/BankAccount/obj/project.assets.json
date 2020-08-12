@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\LabDefiningClasses\\BankAccount\\BankAccount.csproj",
+      "projectUniqueName": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\C-Sharp-OOP-Basics\\LabDefiningClasses\\BankAccount\\BankAccount.csproj",
       "projectName": "BankAccount",
-      "projectPath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\LabDefiningClasses\\BankAccount\\BankAccount.csproj",
+      "projectPath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\C-Sharp-OOP-Basics\\LabDefiningClasses\\BankAccount\\BankAccount.csproj",
       "packagesPath": "C:\\Users\\Yusmen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\LabDefiningClasses\\BankAccount\\obj\\",
+      "outputPath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\C-Sharp-OOP-Basics\\LabDefiningClasses\\BankAccount\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yusmen\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xeODxV8aj7SpG3l5YY9oAUfu+XtcvMMuDdMCshPmtL/CYnWwkK5aCT3p7uWNOPvtXoERFbFDqKBBWU900vDHpw==",
+  "dgSpecHash": "H8jHWib+BS5hPSHgF4c4AbqBHvmuoBe6x7wU9LhCloSA1Hq2MdSzdfxMeVXqnuSbfLJca/qG7/ssYIcuPj+vWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\LabDefiningClasses\\BankAccount\\BankAccount.csproj",
+  "projectFilePath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\C-Sharp-OOP-Basics\\LabDefiningClasses\\BankAccount\\BankAccount.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yusmen\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\Yusmen\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
