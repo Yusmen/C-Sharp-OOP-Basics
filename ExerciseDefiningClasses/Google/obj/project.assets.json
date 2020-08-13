@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\ExerciseDefiningClasses\\Google\\Google.csproj",
+      "projectUniqueName": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\C-Sharp-OOP-Basics\\ExerciseDefiningClasses\\Google\\Google.csproj",
       "projectName": "Google",
-      "projectPath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\ExerciseDefiningClasses\\Google\\Google.csproj",
+      "projectPath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\C-Sharp-OOP-Basics\\ExerciseDefiningClasses\\Google\\Google.csproj",
       "packagesPath": "C:\\Users\\Yusmen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\ExerciseDefiningClasses\\Google\\obj\\",
+      "outputPath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\C-Sharp-OOP-Basics\\ExerciseDefiningClasses\\Google\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yusmen\\AppData\\Roaming\\NuGet\\NuGet.Config",

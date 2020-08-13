@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kGN8ZJVlnS8hXIl3J23wx46V6qLZsNkd8tglpjrARMte6oY/gUSIRpygI98QK04IRl1vN28FX6eer3ljxOy9YQ==",
+  "dgSpecHash": "UskOZD/qaA2i4NyFr7Qr5ErDboAzfox5ktp5LQzRD9Oz+Z7GoNnGw+VIEcRFKdWka7lCZ1Fos7TGQHpRJXeubA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\ExerciseDefiningClasses\\RawData\\RawData.csproj",
+  "projectFilePath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\C-Sharp-OOP-Basics\\ExerciseDefiningClasses\\RawData\\RawData.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yusmen\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\Yusmen\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

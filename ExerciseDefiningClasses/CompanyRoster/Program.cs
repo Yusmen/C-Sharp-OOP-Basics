@@ -10,12 +10,12 @@ namespace CompanyRoster
         {
             int n = int.Parse(Console.ReadLine());
             var workers = new List<Employee>();
-             var  highestSalaries = new Dictionary<string, List<double>>();
+            var  highestSalaries = new Dictionary<string, List<double>>();
             
             for (int i = 0; i < n; i++)   
             {
                 
-                string[] input = Console.ReadLine().Split();
+                string[] input = Console.ReadLine().Split(" ",StringSplitOptions.RemoveEmptyEntries);
                 string name = input[0];
                 double salary = double.Parse(input[1]);
                 string position = input[2];
@@ -63,8 +63,9 @@ namespace CompanyRoster
                 highestDepertment = kvp.Key;
                 break;
             }
-            workers = workers.Where(x => x.Department==highestDepertment)
+            workers = workers.Where(x => x.Department == highestDepertment)
                 .OrderByDescending(x=>x.Salary).ToList();
+            Console.WriteLine();
             Console.WriteLine($"Highest Average Salary: {highestDepertment}");
             foreach(var item in workers)
             {

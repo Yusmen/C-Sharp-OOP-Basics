@@ -9,13 +9,13 @@ namespace CarSaleman
 
         private string model;
         private Engine engine;
-        private string weight;
+        private int weight;
         private string color;
 
         public Car()
         {
             
-            this.Weight = "n/a";
+            this.Weight = 0;
             this.Color = "n/a";
 
         }
@@ -27,7 +27,7 @@ namespace CarSaleman
         }
 
 
-        public string Weight
+        public int Weight
         {
             get { return weight; }
             set { weight = value; }

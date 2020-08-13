@@ -9,3 +9,15 @@ C:\Users\usmenzabanov\source\repos\ExerciseDefiningClasses\RectangleInterSEction
 C:\Users\usmenzabanov\source\repos\ExerciseDefiningClasses\RectangleInterSEction\obj\Debug\netcoreapp2.1\RectangleInterSEction.AssemblyInfo.cs
 C:\Users\usmenzabanov\source\repos\ExerciseDefiningClasses\RectangleInterSEction\obj\Debug\netcoreapp2.1\RectangleInterSEction.dll
 C:\Users\usmenzabanov\source\repos\ExerciseDefiningClasses\RectangleInterSEction\obj\Debug\netcoreapp2.1\RectangleInterSEction.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\RectangleInterSEction\bin\Debug\netcoreapp2.1\RectangleInterSEction.deps.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\RectangleInterSEction\bin\Debug\netcoreapp2.1\RectangleInterSEction.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\RectangleInterSEction\bin\Debug\netcoreapp2.1\RectangleInterSEction.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\RectangleInterSEction\bin\Debug\netcoreapp2.1\RectangleInterSEction.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\RectangleInterSEction\bin\Debug\netcoreapp2.1\RectangleInterSEction.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\RectangleInterSEction\obj\Debug\netcoreapp2.1\RectangleInterSEction.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\RectangleInterSEction\obj\Debug\netcoreapp2.1\RectangleInterSEction.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\RectangleInterSEction\obj\Debug\netcoreapp2.1\RectangleInterSEction.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\RectangleInterSEction\obj\Debug\netcoreapp2.1\RectangleInterSEction.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\RectangleInterSEction\obj\Debug\netcoreapp2.1\RectangleInterSEction.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\RectangleInterSEction\obj\Debug\netcoreapp2.1\RectangleInterSEction.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\RectangleInterSEction\obj\Debug\netcoreapp2.1\RectangleInterSEction.genruntimeconfig.cache

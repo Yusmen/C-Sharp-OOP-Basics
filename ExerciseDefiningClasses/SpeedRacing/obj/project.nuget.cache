@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IxS9wPnDRCkvbJZj8fkh3Ick00sa1A0PNaQxdaw5lx5AXQgnKI5laCTXDNOCGxBs9tg6XOTaHZ+bqeHtRDEJ1A==",
+  "dgSpecHash": "xe+ors5uV16qwyF8XJHl0zGvBArg5EanjQWMqYTLndPufcKzjDyQBDgIDcoJO0I7/tN954PqUXZwuSWeD+qAtg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\ExerciseDefiningClasses\\SpeedRacing\\SpeedRacing.csproj",
+  "projectFilePath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\C-Sharp-OOP-Basics\\ExerciseDefiningClasses\\SpeedRacing\\SpeedRacing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yusmen\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\Yusmen\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

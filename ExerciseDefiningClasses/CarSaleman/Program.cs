@@ -18,15 +18,13 @@ namespace CarSaleman
                 string[] input = Console.ReadLine().Split(' ');
                 string model = input[0];
                 string power = input[1];
-            
-               
-                
+
                 
                var engine = new Engine(model, power);
                 
                 if (input.Length == 3)
                 {
-                    int x=0;
+                    int x = 0;
                     bool isInteger = int.TryParse(input[2], out x);
                     if (isInteger)
                     {
@@ -53,9 +51,9 @@ namespace CarSaleman
             for (int i = 0; i < m; i++)
             { 
        
-                string[] inddput = Console.ReadLine().Split() ;
-                string model = inddput[0];
-                string engine = inddput[1];
+                string[] input = Console.ReadLine().Split(" ",StringSplitOptions.RemoveEmptyEntries) ;
+                string model = input[0];
+                string engine = input[1];
                 var car = new Car();
                 car.Model = model;
 
@@ -69,29 +67,29 @@ namespace CarSaleman
                         break;
                     }
                 }
-                if (inddput.Length == 3)
+                if (input.Length == 3)
                 {
                     int z = 0;
 
-                    bool isInteger = int.TryParse(inddput[2], out z);
+                    bool isInteger = int.TryParse(input[2], out z);
                     if (isInteger)
                     {
-                        car.Weight = inddput[2];
+                        car.Weight = z;
                     }
                     else
                     {
-                        car.Color = inddput[2];
+                        car.Color = input[2];
                     }
                 }
-                else if (inddput.Length == 4)
+                else if (input.Length == 4)
                 {
-                    car.Weight = inddput[2];
-                    car.Color = inddput[3];
+                    car.Weight = int.Parse(input[2]);
+                    car.Color = input[3];
                 }
                 cars.Add(car);
 
             }
-
+            Console.WriteLine();
             foreach (var car in cars)
             {
                 Console.WriteLine($"{car.Model}:");
@@ -99,7 +97,15 @@ namespace CarSaleman
                 Console.WriteLine($"         Power: {car.Engine.Power} ");
                 Console.WriteLine($"         Displacement: {car.Engine.Displacement} ");
                 Console.WriteLine($"         Efficinecy: {car.Engine.Efficiency} ");
-                Console.WriteLine($"  Weight: {car.Weight}");
+                if (car.Weight == 0) 
+                {
+                    Console.WriteLine($"  Weight: n/a");
+                }
+                else
+                {
+                    Console.WriteLine($"  Weight: {car.Weight}");
+                }
+               
                 Console.WriteLine($"  Color: {car.Color}");
 
 

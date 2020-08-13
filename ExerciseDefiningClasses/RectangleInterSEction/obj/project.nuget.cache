@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IdgDr21g8xeA3NtH2x7ewFKhJIa/IvhTCpEfax6xbMVtmjIOEB4iWqJfUcggeh2FtaFvTsM1hmLGqaUorQgUfQ==",
+  "dgSpecHash": "Vx4ut9ENswL3dhvVQIBRgalR8JxHNyN+kWLpH/OikxHLNgm0PoDYibCde7Sc2nCuIhI/XKv0BN9C7LTS3pu+3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\ExerciseDefiningClasses\\RectangleInterSEction\\RectangleInterSEction.csproj",
+  "projectFilePath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\C-Sharp-OOP-Basics\\ExerciseDefiningClasses\\RectangleInterSEction\\RectangleInterSEction.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yusmen\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\Yusmen\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

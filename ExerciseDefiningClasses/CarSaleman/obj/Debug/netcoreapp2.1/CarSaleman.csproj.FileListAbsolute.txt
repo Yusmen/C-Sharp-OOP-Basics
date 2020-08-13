@@ -19,3 +19,15 @@ C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExerciseDefiningClasses\C
 C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExerciseDefiningClasses\CarSaleman\obj\Debug\netcoreapp2.1\CarSaleman.dll
 C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExerciseDefiningClasses\CarSaleman\obj\Debug\netcoreapp2.1\CarSaleman.pdb
 C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExerciseDefiningClasses\CarSaleman\obj\Debug\netcoreapp2.1\CarSaleman.genruntimeconfig.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\CarSaleman\bin\Debug\netcoreapp2.1\CarSaleman.deps.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\CarSaleman\bin\Debug\netcoreapp2.1\CarSaleman.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\CarSaleman\bin\Debug\netcoreapp2.1\CarSaleman.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\CarSaleman\bin\Debug\netcoreapp2.1\CarSaleman.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\CarSaleman\bin\Debug\netcoreapp2.1\CarSaleman.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\CarSaleman\obj\Debug\netcoreapp2.1\CarSaleman.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\CarSaleman\obj\Debug\netcoreapp2.1\CarSaleman.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\CarSaleman\obj\Debug\netcoreapp2.1\CarSaleman.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\CarSaleman\obj\Debug\netcoreapp2.1\CarSaleman.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\CarSaleman\obj\Debug\netcoreapp2.1\CarSaleman.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\CarSaleman\obj\Debug\netcoreapp2.1\CarSaleman.genruntimeconfig.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\CarSaleman\obj\Debug\netcoreapp2.1\CarSaleman.csprojAssemblyReference.cache

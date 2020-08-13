@@ -9,3 +9,15 @@ C:\Users\usmenzabanov\source\repos\ExerciseDefiningClasses\CompanyRoster\obj\Deb
 C:\Users\usmenzabanov\source\repos\ExerciseDefiningClasses\CompanyRoster\obj\Debug\netcoreapp2.1\CompanyRoster.AssemblyInfo.cs
 C:\Users\usmenzabanov\source\repos\ExerciseDefiningClasses\CompanyRoster\obj\Debug\netcoreapp2.1\CompanyRoster.dll
 C:\Users\usmenzabanov\source\repos\ExerciseDefiningClasses\CompanyRoster\obj\Debug\netcoreapp2.1\CompanyRoster.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\CompanyRoster\bin\Debug\netcoreapp2.1\CompanyRoster.deps.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\CompanyRoster\bin\Debug\netcoreapp2.1\CompanyRoster.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\CompanyRoster\bin\Debug\netcoreapp2.1\CompanyRoster.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\CompanyRoster\bin\Debug\netcoreapp2.1\CompanyRoster.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\CompanyRoster\bin\Debug\netcoreapp2.1\CompanyRoster.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\CompanyRoster\obj\Debug\netcoreapp2.1\CompanyRoster.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\CompanyRoster\obj\Debug\netcoreapp2.1\CompanyRoster.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\CompanyRoster\obj\Debug\netcoreapp2.1\CompanyRoster.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\CompanyRoster\obj\Debug\netcoreapp2.1\CompanyRoster.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\CompanyRoster\obj\Debug\netcoreapp2.1\CompanyRoster.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\CompanyRoster\obj\Debug\netcoreapp2.1\CompanyRoster.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\CompanyRoster\obj\Debug\netcoreapp2.1\CompanyRoster.genruntimeconfig.cache

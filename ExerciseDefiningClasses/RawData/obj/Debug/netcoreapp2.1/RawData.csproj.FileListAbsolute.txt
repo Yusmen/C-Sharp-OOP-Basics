@@ -9,3 +9,15 @@ C:\Users\usmenzabanov\source\repos\ExerciseDefiningClasses\RawData\obj\Debug\net
 C:\Users\usmenzabanov\source\repos\ExerciseDefiningClasses\RawData\obj\Debug\netcoreapp2.1\RawData.dll
 C:\Users\usmenzabanov\source\repos\ExerciseDefiningClasses\RawData\obj\Debug\netcoreapp2.1\RawData.pdb
 C:\Users\usmenzabanov\source\repos\ExerciseDefiningClasses\RawData\obj\Debug\netcoreapp2.1\RawData.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\RawData\bin\Debug\netcoreapp2.1\RawData.deps.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\RawData\bin\Debug\netcoreapp2.1\RawData.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\RawData\bin\Debug\netcoreapp2.1\RawData.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\RawData\bin\Debug\netcoreapp2.1\RawData.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\RawData\bin\Debug\netcoreapp2.1\RawData.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\RawData\obj\Debug\netcoreapp2.1\RawData.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\RawData\obj\Debug\netcoreapp2.1\RawData.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\RawData\obj\Debug\netcoreapp2.1\RawData.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\RawData\obj\Debug\netcoreapp2.1\RawData.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\RawData\obj\Debug\netcoreapp2.1\RawData.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\RawData\obj\Debug\netcoreapp2.1\RawData.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\RawData\obj\Debug\netcoreapp2.1\RawData.genruntimeconfig.cache

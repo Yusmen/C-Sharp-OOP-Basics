@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GzSYYoSbF8fzkPgrLFALTRiWOpoPzyei2m+eNgpjSeXAMyBf8XMbrUpFZsbB5OZ5FnGqnaYs3Az4dzJZeTAJfA==",
+  "dgSpecHash": "5RUXMiq4yz/8ymCpokBlcOMddmSM3Q4benV69VxOQce3c+jo69wpJaivO+uFP3QqyLjYcOPxpsEK+0QkMbE4fA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\ExerciseDefiningClasses\\DateModifier\\DateModifier.csproj",
+  "projectFilePath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\C-Sharp-OOP-Basics\\ExerciseDefiningClasses\\DateModifier\\DateModifier.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yusmen\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\Yusmen\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

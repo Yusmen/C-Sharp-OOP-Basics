@@ -21,3 +21,15 @@ C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExerciseDefiningClasses\G
 C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExerciseDefiningClasses\Google\obj\Debug\netcoreapp2.1\Google.dll
 C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExerciseDefiningClasses\Google\obj\Debug\netcoreapp2.1\Google.pdb
 C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExerciseDefiningClasses\Google\obj\Debug\netcoreapp2.1\Google.genruntimeconfig.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\Google\bin\Debug\netcoreapp2.1\Google.deps.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\Google\bin\Debug\netcoreapp2.1\Google.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\Google\bin\Debug\netcoreapp2.1\Google.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\Google\bin\Debug\netcoreapp2.1\Google.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\Google\bin\Debug\netcoreapp2.1\Google.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\Google\obj\Debug\netcoreapp2.1\Google.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\Google\obj\Debug\netcoreapp2.1\Google.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\Google\obj\Debug\netcoreapp2.1\Google.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\Google\obj\Debug\netcoreapp2.1\Google.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\Google\obj\Debug\netcoreapp2.1\Google.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\Google\obj\Debug\netcoreapp2.1\Google.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\ExerciseDefiningClasses\Google\obj\Debug\netcoreapp2.1\Google.genruntimeconfig.cache

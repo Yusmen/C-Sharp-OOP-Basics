@@ -10,8 +10,6 @@ namespace SpeedRacing
         {
             int n = int.Parse(Console.ReadLine());
 
-            //model, fuel amount, 
-            //fuel consumption for 1 kilometer and  traveled distance.
 
             List<Car> cars = new List<Car>();
 
