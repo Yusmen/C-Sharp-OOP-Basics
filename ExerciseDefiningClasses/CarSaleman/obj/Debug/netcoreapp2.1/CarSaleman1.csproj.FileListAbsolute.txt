@@ -1,0 +1,10 @@
+C:\Users\usmenzabanov\source\repos\ExerciseDefiningClasses\CarSaleman\bin\Debug\netcoreapp2.1\CarSaleman1.deps.json
+C:\Users\usmenzabanov\source\repos\ExerciseDefiningClasses\CarSaleman\bin\Debug\netcoreapp2.1\CarSaleman1.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\ExerciseDefiningClasses\CarSaleman\bin\Debug\netcoreapp2.1\CarSaleman1.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\ExerciseDefiningClasses\CarSaleman\bin\Debug\netcoreapp2.1\CarSaleman1.dll
+C:\Users\usmenzabanov\source\repos\ExerciseDefiningClasses\CarSaleman\bin\Debug\netcoreapp2.1\CarSaleman1.pdb
+C:\Users\usmenzabanov\source\repos\ExerciseDefiningClasses\CarSaleman\obj\Debug\netcoreapp2.1\CarSaleman1.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ExerciseDefiningClasses\CarSaleman\obj\Debug\netcoreapp2.1\CarSaleman1.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\ExerciseDefiningClasses\CarSaleman\obj\Debug\netcoreapp2.1\CarSaleman1.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\ExerciseDefiningClasses\CarSaleman\obj\Debug\netcoreapp2.1\CarSaleman1.dll
+C:\Users\usmenzabanov\source\repos\ExerciseDefiningClasses\CarSaleman\obj\Debug\netcoreapp2.1\CarSaleman1.pdb
