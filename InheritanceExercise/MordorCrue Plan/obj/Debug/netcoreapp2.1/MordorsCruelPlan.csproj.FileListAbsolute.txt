@@ -1,0 +1,12 @@
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\MordorCrue Plan\bin\Debug\netcoreapp2.1\MordorsCruelPlan.deps.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\MordorCrue Plan\bin\Debug\netcoreapp2.1\MordorsCruelPlan.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\MordorCrue Plan\bin\Debug\netcoreapp2.1\MordorsCruelPlan.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\MordorCrue Plan\bin\Debug\netcoreapp2.1\MordorsCruelPlan.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\MordorCrue Plan\bin\Debug\netcoreapp2.1\MordorsCruelPlan.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\MordorCrue Plan\obj\Debug\netcoreapp2.1\MordorsCruelPlan.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\MordorCrue Plan\obj\Debug\netcoreapp2.1\MordorsCruelPlan.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\MordorCrue Plan\obj\Debug\netcoreapp2.1\MordorsCruelPlan.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\MordorCrue Plan\obj\Debug\netcoreapp2.1\MordorsCruelPlan.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\MordorCrue Plan\obj\Debug\netcoreapp2.1\MordorsCruelPlan.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\MordorCrue Plan\obj\Debug\netcoreapp2.1\MordorsCruelPlan.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\MordorCrue Plan\obj\Debug\netcoreapp2.1\MordorsCruelPlan.genruntimeconfig.cache

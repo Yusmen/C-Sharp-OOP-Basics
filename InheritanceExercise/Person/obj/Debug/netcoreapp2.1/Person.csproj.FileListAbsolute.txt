@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\Person\obj\Debug\netcoreapp2.1\Person.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\Person\obj\Debug\netcoreapp2.1\Person.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\Person\obj\Debug\netcoreapp2.1\Person.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\Person\obj\Debug\netcoreapp2.1\Person.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\Person\bin\Debug\netcoreapp2.1\Person.deps.json
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\Person\bin\Debug\netcoreapp2.1\Person.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\Person\bin\Debug\netcoreapp2.1\Person.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\Person\bin\Debug\netcoreapp2.1\Person.dll
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\Person\bin\Debug\netcoreapp2.1\Person.pdb
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\Person\obj\Debug\netcoreapp2.1\Person.dll
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\Person\obj\Debug\netcoreapp2.1\Person.pdb

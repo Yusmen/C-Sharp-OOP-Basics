@@ -1,0 +1,23 @@
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\BookShop\obj\Debug\netcoreapp2.1\BookShop.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\BookShop\obj\Debug\netcoreapp2.1\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\BookShop\bin\Debug\netcoreapp2.1\BookShop.deps.json
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\BookShop\bin\Debug\netcoreapp2.1\BookShop.dll
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\BookShop\bin\Debug\netcoreapp2.1\BookShop.pdb
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\BookShop\obj\Debug\netcoreapp2.1\BookShop.dll
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\BookShop\obj\Debug\netcoreapp2.1\BookShop.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\BookShop\bin\Debug\netcoreapp2.1\BookShop.deps.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\BookShop\bin\Debug\netcoreapp2.1\BookShop.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\BookShop\bin\Debug\netcoreapp2.1\BookShop.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\BookShop\obj\Debug\netcoreapp2.1\BookShop.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\BookShop\obj\Debug\netcoreapp2.1\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\BookShop\obj\Debug\netcoreapp2.1\BookShop.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\BookShop\obj\Debug\netcoreapp2.1\BookShop.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\BookShop\obj\Debug\netcoreapp2.1\BookShop.genruntimeconfig.cache

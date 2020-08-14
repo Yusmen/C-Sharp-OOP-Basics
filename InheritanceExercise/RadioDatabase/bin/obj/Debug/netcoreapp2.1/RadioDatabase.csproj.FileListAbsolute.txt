@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\RadioDatabase\obj\Debug\netcoreapp2.1\RadioDatabase.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\RadioDatabase\obj\Debug\netcoreapp2.1\RadioDatabase.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\RadioDatabase\obj\Debug\netcoreapp2.1\RadioDatabase.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\RadioDatabase\obj\Debug\netcoreapp2.1\RadioDatabase.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\RadioDatabase\bin\Debug\netcoreapp2.1\RadioDatabase.deps.json
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\RadioDatabase\bin\Debug\netcoreapp2.1\RadioDatabase.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\RadioDatabase\bin\Debug\netcoreapp2.1\RadioDatabase.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\RadioDatabase\bin\Debug\netcoreapp2.1\RadioDatabase.dll
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\RadioDatabase\bin\Debug\netcoreapp2.1\RadioDatabase.pdb
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\RadioDatabase\obj\Debug\netcoreapp2.1\RadioDatabase.dll
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\RadioDatabase\obj\Debug\netcoreapp2.1\RadioDatabase.pdb

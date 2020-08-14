@@ -1,0 +1,23 @@
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\Mankind\bin\Debug\netcoreapp2.0\Mankind.deps.json
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\Mankind\bin\Debug\netcoreapp2.0\Mankind.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\Mankind\bin\Debug\netcoreapp2.0\Mankind.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\Mankind\bin\Debug\netcoreapp2.0\Mankind.dll
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\Mankind\bin\Debug\netcoreapp2.0\Mankind.pdb
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\Mankind\obj\Debug\netcoreapp2.0\Mankind.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\Mankind\obj\Debug\netcoreapp2.0\Mankind.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\Mankind\obj\Debug\netcoreapp2.0\Mankind.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\Mankind\obj\Debug\netcoreapp2.0\Mankind.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\Mankind\obj\Debug\netcoreapp2.0\Mankind.dll
+C:\Users\usmenzabanov\source\repos\InheritanceExercise\Mankind\obj\Debug\netcoreapp2.0\Mankind.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\Mankind\bin\Debug\netcoreapp2.0\Mankind.deps.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\Mankind\bin\Debug\netcoreapp2.0\Mankind.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\Mankind\bin\Debug\netcoreapp2.0\Mankind.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\Mankind\bin\Debug\netcoreapp2.0\Mankind.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\Mankind\bin\Debug\netcoreapp2.0\Mankind.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\Mankind\obj\Debug\netcoreapp2.0\Mankind.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\Mankind\obj\Debug\netcoreapp2.0\Mankind.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\Mankind\obj\Debug\netcoreapp2.0\Mankind.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\Mankind\obj\Debug\netcoreapp2.0\Mankind.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\Mankind\obj\Debug\netcoreapp2.0\Mankind.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\Mankind\obj\Debug\netcoreapp2.0\Mankind.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\InheritanceExercise\Mankind\obj\Debug\netcoreapp2.0\Mankind.genruntimeconfig.cache
