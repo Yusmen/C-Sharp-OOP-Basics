@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\LabEncapsulation\NameAge\bin\Debug\netcoreapp2.1\NameAge.deps.json
+C:\Users\usmenzabanov\source\repos\LabEncapsulation\NameAge\bin\Debug\netcoreapp2.1\NameAge.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\LabEncapsulation\NameAge\bin\Debug\netcoreapp2.1\NameAge.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\LabEncapsulation\NameAge\bin\Debug\netcoreapp2.1\NameAge.dll
+C:\Users\usmenzabanov\source\repos\LabEncapsulation\NameAge\bin\Debug\netcoreapp2.1\NameAge.pdb
+C:\Users\usmenzabanov\source\repos\LabEncapsulation\NameAge\obj\Debug\netcoreapp2.1\NameAge.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\LabEncapsulation\NameAge\obj\Debug\netcoreapp2.1\NameAge.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\LabEncapsulation\NameAge\obj\Debug\netcoreapp2.1\NameAge.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\LabEncapsulation\NameAge\obj\Debug\netcoreapp2.1\NameAge.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\LabEncapsulation\NameAge\obj\Debug\netcoreapp2.1\NameAge.dll
+C:\Users\usmenzabanov\source\repos\LabEncapsulation\NameAge\obj\Debug\netcoreapp2.1\NameAge.pdb

@@ -1,0 +1,23 @@
+C:\Users\usmenzabanov\source\repos\LabEncapsulation\NameAge\bin\Debug\netcoreapp2.0\NameAge.deps.json
+C:\Users\usmenzabanov\source\repos\LabEncapsulation\NameAge\bin\Debug\netcoreapp2.0\NameAge.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\LabEncapsulation\NameAge\bin\Debug\netcoreapp2.0\NameAge.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\LabEncapsulation\NameAge\bin\Debug\netcoreapp2.0\NameAge.dll
+C:\Users\usmenzabanov\source\repos\LabEncapsulation\NameAge\bin\Debug\netcoreapp2.0\NameAge.pdb
+C:\Users\usmenzabanov\source\repos\LabEncapsulation\NameAge\obj\Debug\netcoreapp2.0\NameAge.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\LabEncapsulation\NameAge\obj\Debug\netcoreapp2.0\NameAge.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\LabEncapsulation\NameAge\obj\Debug\netcoreapp2.0\NameAge.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\LabEncapsulation\NameAge\obj\Debug\netcoreapp2.0\NameAge.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\LabEncapsulation\NameAge\obj\Debug\netcoreapp2.0\NameAge.dll
+C:\Users\usmenzabanov\source\repos\LabEncapsulation\NameAge\obj\Debug\netcoreapp2.0\NameAge.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabEncapsulation\NameAge\bin\Debug\netcoreapp2.0\NameAge.deps.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabEncapsulation\NameAge\bin\Debug\netcoreapp2.0\NameAge.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabEncapsulation\NameAge\bin\Debug\netcoreapp2.0\NameAge.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabEncapsulation\NameAge\bin\Debug\netcoreapp2.0\NameAge.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabEncapsulation\NameAge\bin\Debug\netcoreapp2.0\NameAge.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabEncapsulation\NameAge\obj\Debug\netcoreapp2.0\NameAge.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabEncapsulation\NameAge\obj\Debug\netcoreapp2.0\NameAge.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabEncapsulation\NameAge\obj\Debug\netcoreapp2.0\NameAge.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabEncapsulation\NameAge\obj\Debug\netcoreapp2.0\NameAge.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabEncapsulation\NameAge\obj\Debug\netcoreapp2.0\NameAge.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabEncapsulation\NameAge\obj\Debug\netcoreapp2.0\NameAge.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabEncapsulation\NameAge\obj\Debug\netcoreapp2.0\NameAge.genruntimeconfig.cache
