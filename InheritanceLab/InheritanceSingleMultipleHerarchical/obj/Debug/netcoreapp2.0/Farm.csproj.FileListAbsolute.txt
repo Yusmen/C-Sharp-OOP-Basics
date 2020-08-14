@@ -1,0 +1,10 @@
+C:\Users\usmenzabanov\source\repos\Solution8\InheritanceSingleMultipleHerarchical\bin\Debug\netcoreapp2.0\Farm.deps.json
+C:\Users\usmenzabanov\source\repos\Solution8\InheritanceSingleMultipleHerarchical\bin\Debug\netcoreapp2.0\Farm.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\Solution8\InheritanceSingleMultipleHerarchical\bin\Debug\netcoreapp2.0\Farm.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\Solution8\InheritanceSingleMultipleHerarchical\bin\Debug\netcoreapp2.0\Farm.dll
+C:\Users\usmenzabanov\source\repos\Solution8\InheritanceSingleMultipleHerarchical\bin\Debug\netcoreapp2.0\Farm.pdb
+C:\Users\usmenzabanov\source\repos\Solution8\InheritanceSingleMultipleHerarchical\obj\Debug\netcoreapp2.0\Farm.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution8\InheritanceSingleMultipleHerarchical\obj\Debug\netcoreapp2.0\Farm.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution8\InheritanceSingleMultipleHerarchical\obj\Debug\netcoreapp2.0\Farm.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\Solution8\InheritanceSingleMultipleHerarchical\obj\Debug\netcoreapp2.0\Farm.dll
+C:\Users\usmenzabanov\source\repos\Solution8\InheritanceSingleMultipleHerarchical\obj\Debug\netcoreapp2.0\Farm.pdb

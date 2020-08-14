@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\Solution8\CustomStack\bin\Debug\netcoreapp2.1\CustomStack.deps.json
+C:\Users\usmenzabanov\source\repos\Solution8\CustomStack\bin\Debug\netcoreapp2.1\CustomStack.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\Solution8\CustomStack\bin\Debug\netcoreapp2.1\CustomStack.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\Solution8\CustomStack\bin\Debug\netcoreapp2.1\CustomStack.dll
+C:\Users\usmenzabanov\source\repos\Solution8\CustomStack\bin\Debug\netcoreapp2.1\CustomStack.pdb
+C:\Users\usmenzabanov\source\repos\Solution8\CustomStack\obj\Debug\netcoreapp2.1\CustomStack.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Solution8\CustomStack\obj\Debug\netcoreapp2.1\CustomStack.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution8\CustomStack\obj\Debug\netcoreapp2.1\CustomStack.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution8\CustomStack\obj\Debug\netcoreapp2.1\CustomStack.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\Solution8\CustomStack\obj\Debug\netcoreapp2.1\CustomStack.dll
+C:\Users\usmenzabanov\source\repos\Solution8\CustomStack\obj\Debug\netcoreapp2.1\CustomStack.pdb

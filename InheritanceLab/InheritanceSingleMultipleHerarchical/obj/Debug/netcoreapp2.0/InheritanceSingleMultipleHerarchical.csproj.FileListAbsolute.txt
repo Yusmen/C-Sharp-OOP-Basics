@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\Solution8\InheritanceSingleMultipleHerarchical\bin\Debug\netcoreapp2.0\InheritanceSingleMultipleHerarchical.deps.json
+C:\Users\usmenzabanov\source\repos\Solution8\InheritanceSingleMultipleHerarchical\bin\Debug\netcoreapp2.0\InheritanceSingleMultipleHerarchical.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\Solution8\InheritanceSingleMultipleHerarchical\bin\Debug\netcoreapp2.0\InheritanceSingleMultipleHerarchical.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\Solution8\InheritanceSingleMultipleHerarchical\bin\Debug\netcoreapp2.0\InheritanceSingleMultipleHerarchical.dll
+C:\Users\usmenzabanov\source\repos\Solution8\InheritanceSingleMultipleHerarchical\bin\Debug\netcoreapp2.0\InheritanceSingleMultipleHerarchical.pdb
+C:\Users\usmenzabanov\source\repos\Solution8\InheritanceSingleMultipleHerarchical\obj\Debug\netcoreapp2.0\InheritanceSingleMultipleHerarchical.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Solution8\InheritanceSingleMultipleHerarchical\obj\Debug\netcoreapp2.0\InheritanceSingleMultipleHerarchical.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution8\InheritanceSingleMultipleHerarchical\obj\Debug\netcoreapp2.0\InheritanceSingleMultipleHerarchical.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution8\InheritanceSingleMultipleHerarchical\obj\Debug\netcoreapp2.0\InheritanceSingleMultipleHerarchical.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\Solution8\InheritanceSingleMultipleHerarchical\obj\Debug\netcoreapp2.0\InheritanceSingleMultipleHerarchical.dll
+C:\Users\usmenzabanov\source\repos\Solution8\InheritanceSingleMultipleHerarchical\obj\Debug\netcoreapp2.0\InheritanceSingleMultipleHerarchical.pdb

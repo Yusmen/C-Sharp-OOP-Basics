@@ -1,0 +1,10 @@
+C:\Users\usmenzabanov\source\repos\Solution8\CustomRandomList\bin\Debug\netcoreapp2.1\CustomRandomList.deps.json
+C:\Users\usmenzabanov\source\repos\Solution8\CustomRandomList\bin\Debug\netcoreapp2.1\CustomRandomList.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\Solution8\CustomRandomList\bin\Debug\netcoreapp2.1\CustomRandomList.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\Solution8\CustomRandomList\bin\Debug\netcoreapp2.1\CustomRandomList.dll
+C:\Users\usmenzabanov\source\repos\Solution8\CustomRandomList\bin\Debug\netcoreapp2.1\CustomRandomList.pdb
+C:\Users\usmenzabanov\source\repos\Solution8\CustomRandomList\obj\Debug\netcoreapp2.1\CustomRandomList.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution8\CustomRandomList\obj\Debug\netcoreapp2.1\CustomRandomList.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution8\CustomRandomList\obj\Debug\netcoreapp2.1\CustomRandomList.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\Solution8\CustomRandomList\obj\Debug\netcoreapp2.1\CustomRandomList.dll
+C:\Users\usmenzabanov\source\repos\Solution8\CustomRandomList\obj\Debug\netcoreapp2.1\CustomRandomList.pdb
