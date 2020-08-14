@@ -1,0 +1,23 @@
+C:\Users\usmenzabanov\source\repos\WorkingWithAbstractionLab\PointInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.deps.json
+C:\Users\usmenzabanov\source\repos\WorkingWithAbstractionLab\PointInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\WorkingWithAbstractionLab\PointInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\WorkingWithAbstractionLab\PointInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.dll
+C:\Users\usmenzabanov\source\repos\WorkingWithAbstractionLab\PointInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.pdb
+C:\Users\usmenzabanov\source\repos\WorkingWithAbstractionLab\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\WorkingWithAbstractionLab\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\WorkingWithAbstractionLab\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\WorkingWithAbstractionLab\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\WorkingWithAbstractionLab\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.dll
+C:\Users\usmenzabanov\source\repos\WorkingWithAbstractionLab\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\WorkingWithAbstractionLab\PointInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.deps.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\WorkingWithAbstractionLab\PointInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\WorkingWithAbstractionLab\PointInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\WorkingWithAbstractionLab\PointInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\WorkingWithAbstractionLab\PointInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\WorkingWithAbstractionLab\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\WorkingWithAbstractionLab\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\WorkingWithAbstractionLab\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\WorkingWithAbstractionLab\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\WorkingWithAbstractionLab\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\WorkingWithAbstractionLab\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\WorkingWithAbstractionLab\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.genruntimeconfig.cache

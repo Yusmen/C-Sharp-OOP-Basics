@@ -1,0 +1,23 @@
+C:\Users\usmenzabanov\source\repos\WorkingWithAbstractionLab\HotelReservation\bin\Debug\netcoreapp2.1\HotelReservation.deps.json
+C:\Users\usmenzabanov\source\repos\WorkingWithAbstractionLab\HotelReservation\bin\Debug\netcoreapp2.1\HotelReservation.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\WorkingWithAbstractionLab\HotelReservation\bin\Debug\netcoreapp2.1\HotelReservation.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\WorkingWithAbstractionLab\HotelReservation\bin\Debug\netcoreapp2.1\HotelReservation.dll
+C:\Users\usmenzabanov\source\repos\WorkingWithAbstractionLab\HotelReservation\bin\Debug\netcoreapp2.1\HotelReservation.pdb
+C:\Users\usmenzabanov\source\repos\WorkingWithAbstractionLab\HotelReservation\obj\Debug\netcoreapp2.1\HotelReservation.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\WorkingWithAbstractionLab\HotelReservation\obj\Debug\netcoreapp2.1\HotelReservation.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\WorkingWithAbstractionLab\HotelReservation\obj\Debug\netcoreapp2.1\HotelReservation.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\WorkingWithAbstractionLab\HotelReservation\obj\Debug\netcoreapp2.1\HotelReservation.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\WorkingWithAbstractionLab\HotelReservation\obj\Debug\netcoreapp2.1\HotelReservation.dll
+C:\Users\usmenzabanov\source\repos\WorkingWithAbstractionLab\HotelReservation\obj\Debug\netcoreapp2.1\HotelReservation.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\WorkingWithAbstractionLab\HotelReservation\bin\Debug\netcoreapp2.1\HotelReservation.deps.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\WorkingWithAbstractionLab\HotelReservation\bin\Debug\netcoreapp2.1\HotelReservation.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\WorkingWithAbstractionLab\HotelReservation\bin\Debug\netcoreapp2.1\HotelReservation.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\WorkingWithAbstractionLab\HotelReservation\bin\Debug\netcoreapp2.1\HotelReservation.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\WorkingWithAbstractionLab\HotelReservation\bin\Debug\netcoreapp2.1\HotelReservation.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\WorkingWithAbstractionLab\HotelReservation\obj\Debug\netcoreapp2.1\HotelReservation.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\WorkingWithAbstractionLab\HotelReservation\obj\Debug\netcoreapp2.1\HotelReservation.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\WorkingWithAbstractionLab\HotelReservation\obj\Debug\netcoreapp2.1\HotelReservation.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\WorkingWithAbstractionLab\HotelReservation\obj\Debug\netcoreapp2.1\HotelReservation.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\WorkingWithAbstractionLab\HotelReservation\obj\Debug\netcoreapp2.1\HotelReservation.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\WorkingWithAbstractionLab\HotelReservation\obj\Debug\netcoreapp2.1\HotelReservation.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\WorkingWithAbstractionLab\HotelReservation\obj\Debug\netcoreapp2.1\HotelReservation.genruntimeconfig.cache
