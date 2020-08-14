@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\EmcapsulationExercise\ClassBox\bin\Debug\netcoreapp2.1\ClassBox.deps.json
+C:\Users\usmenzabanov\source\repos\EmcapsulationExercise\ClassBox\bin\Debug\netcoreapp2.1\ClassBox.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\EmcapsulationExercise\ClassBox\bin\Debug\netcoreapp2.1\ClassBox.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\EmcapsulationExercise\ClassBox\bin\Debug\netcoreapp2.1\ClassBox.dll
+C:\Users\usmenzabanov\source\repos\EmcapsulationExercise\ClassBox\bin\Debug\netcoreapp2.1\ClassBox.pdb
+C:\Users\usmenzabanov\source\repos\EmcapsulationExercise\ClassBox\obj\Debug\netcoreapp2.1\ClassBox.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\EmcapsulationExercise\ClassBox\obj\Debug\netcoreapp2.1\ClassBox.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\EmcapsulationExercise\ClassBox\obj\Debug\netcoreapp2.1\ClassBox.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\EmcapsulationExercise\ClassBox\obj\Debug\netcoreapp2.1\ClassBox.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\EmcapsulationExercise\ClassBox\obj\Debug\netcoreapp2.1\ClassBox.dll
+C:\Users\usmenzabanov\source\repos\EmcapsulationExercise\ClassBox\obj\Debug\netcoreapp2.1\ClassBox.pdb
