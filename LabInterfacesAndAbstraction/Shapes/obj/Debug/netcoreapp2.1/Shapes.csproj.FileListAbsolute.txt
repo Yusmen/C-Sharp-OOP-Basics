@@ -1,0 +1,23 @@
+C:\Users\usmenzabanov\source\repos\LabInterfacesAndAbstraction\Shapes\bin\Debug\netcoreapp2.1\Shapes.deps.json
+C:\Users\usmenzabanov\source\repos\LabInterfacesAndAbstraction\Shapes\bin\Debug\netcoreapp2.1\Shapes.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\LabInterfacesAndAbstraction\Shapes\bin\Debug\netcoreapp2.1\Shapes.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\LabInterfacesAndAbstraction\Shapes\bin\Debug\netcoreapp2.1\Shapes.dll
+C:\Users\usmenzabanov\source\repos\LabInterfacesAndAbstraction\Shapes\bin\Debug\netcoreapp2.1\Shapes.pdb
+C:\Users\usmenzabanov\source\repos\LabInterfacesAndAbstraction\Shapes\obj\Debug\netcoreapp2.1\Shapes.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\LabInterfacesAndAbstraction\Shapes\obj\Debug\netcoreapp2.1\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\LabInterfacesAndAbstraction\Shapes\obj\Debug\netcoreapp2.1\Shapes.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\LabInterfacesAndAbstraction\Shapes\obj\Debug\netcoreapp2.1\Shapes.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\LabInterfacesAndAbstraction\Shapes\obj\Debug\netcoreapp2.1\Shapes.dll
+C:\Users\usmenzabanov\source\repos\LabInterfacesAndAbstraction\Shapes\obj\Debug\netcoreapp2.1\Shapes.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabInterfacesAndAbstraction\Shapes\bin\Debug\netcoreapp2.1\Shapes.deps.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabInterfacesAndAbstraction\Shapes\bin\Debug\netcoreapp2.1\Shapes.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabInterfacesAndAbstraction\Shapes\bin\Debug\netcoreapp2.1\Shapes.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabInterfacesAndAbstraction\Shapes\bin\Debug\netcoreapp2.1\Shapes.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabInterfacesAndAbstraction\Shapes\bin\Debug\netcoreapp2.1\Shapes.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabInterfacesAndAbstraction\Shapes\obj\Debug\netcoreapp2.1\Shapes.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabInterfacesAndAbstraction\Shapes\obj\Debug\netcoreapp2.1\Shapes.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabInterfacesAndAbstraction\Shapes\obj\Debug\netcoreapp2.1\Shapes.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabInterfacesAndAbstraction\Shapes\obj\Debug\netcoreapp2.1\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabInterfacesAndAbstraction\Shapes\obj\Debug\netcoreapp2.1\Shapes.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabInterfacesAndAbstraction\Shapes\obj\Debug\netcoreapp2.1\Shapes.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabInterfacesAndAbstraction\Shapes\obj\Debug\netcoreapp2.1\Shapes.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+C:\Users\usmenzabanov\source\repos\LabInterfacesAndAbstraction\Cars\bin\Debug\netcoreapp2.1\Cars.deps.json
+C:\Users\usmenzabanov\source\repos\LabInterfacesAndAbstraction\Cars\bin\Debug\netcoreapp2.1\Cars.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\LabInterfacesAndAbstraction\Cars\bin\Debug\netcoreapp2.1\Cars.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\LabInterfacesAndAbstraction\Cars\bin\Debug\netcoreapp2.1\Cars.dll
+C:\Users\usmenzabanov\source\repos\LabInterfacesAndAbstraction\Cars\bin\Debug\netcoreapp2.1\Cars.pdb
+C:\Users\usmenzabanov\source\repos\LabInterfacesAndAbstraction\Cars\obj\Debug\netcoreapp2.1\Cars.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\LabInterfacesAndAbstraction\Cars\obj\Debug\netcoreapp2.1\Cars.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\LabInterfacesAndAbstraction\Cars\obj\Debug\netcoreapp2.1\Cars.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\LabInterfacesAndAbstraction\Cars\obj\Debug\netcoreapp2.1\Cars.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\LabInterfacesAndAbstraction\Cars\obj\Debug\netcoreapp2.1\Cars.dll
+C:\Users\usmenzabanov\source\repos\LabInterfacesAndAbstraction\Cars\obj\Debug\netcoreapp2.1\Cars.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabInterfacesAndAbstraction\Cars\bin\Debug\netcoreapp2.1\Cars.deps.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabInterfacesAndAbstraction\Cars\bin\Debug\netcoreapp2.1\Cars.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabInterfacesAndAbstraction\Cars\bin\Debug\netcoreapp2.1\Cars.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabInterfacesAndAbstraction\Cars\bin\Debug\netcoreapp2.1\Cars.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabInterfacesAndAbstraction\Cars\bin\Debug\netcoreapp2.1\Cars.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabInterfacesAndAbstraction\Cars\obj\Debug\netcoreapp2.1\Cars.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabInterfacesAndAbstraction\Cars\obj\Debug\netcoreapp2.1\Cars.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabInterfacesAndAbstraction\Cars\obj\Debug\netcoreapp2.1\Cars.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabInterfacesAndAbstraction\Cars\obj\Debug\netcoreapp2.1\Cars.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabInterfacesAndAbstraction\Cars\obj\Debug\netcoreapp2.1\Cars.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabInterfacesAndAbstraction\Cars\obj\Debug\netcoreapp2.1\Cars.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\LabInterfacesAndAbstraction\Cars\obj\Debug\netcoreapp2.1\Cars.genruntimeconfig.cache
