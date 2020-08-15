@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\ExplicitInterfaces\bin\Debug\netcoreapp2.1\ExplicitInterfaces.deps.json
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\ExplicitInterfaces\bin\Debug\netcoreapp2.1\ExplicitInterfaces.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\ExplicitInterfaces\bin\Debug\netcoreapp2.1\ExplicitInterfaces.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\ExplicitInterfaces\bin\Debug\netcoreapp2.1\ExplicitInterfaces.dll
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\ExplicitInterfaces\bin\Debug\netcoreapp2.1\ExplicitInterfaces.pdb
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\ExplicitInterfaces\obj\Debug\netcoreapp2.1\ExplicitInterfaces.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\ExplicitInterfaces\obj\Debug\netcoreapp2.1\ExplicitInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\ExplicitInterfaces\obj\Debug\netcoreapp2.1\ExplicitInterfaces.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\ExplicitInterfaces\obj\Debug\netcoreapp2.1\ExplicitInterfaces.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\ExplicitInterfaces\obj\Debug\netcoreapp2.1\ExplicitInterfaces.dll
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\ExplicitInterfaces\obj\Debug\netcoreapp2.1\ExplicitInterfaces.pdb

@@ -1,0 +1,23 @@
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\Ferrari\bin\Debug\netcoreapp2.1\Ferrari.deps.json
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\Ferrari\bin\Debug\netcoreapp2.1\Ferrari.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\Ferrari\bin\Debug\netcoreapp2.1\Ferrari.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\Ferrari\bin\Debug\netcoreapp2.1\Ferrari.dll
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\Ferrari\bin\Debug\netcoreapp2.1\Ferrari.pdb
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\Ferrari\obj\Debug\netcoreapp2.1\Ferrari.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\Ferrari\obj\Debug\netcoreapp2.1\Ferrari.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\Ferrari\obj\Debug\netcoreapp2.1\Ferrari.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\Ferrari\obj\Debug\netcoreapp2.1\Ferrari.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\Ferrari\obj\Debug\netcoreapp2.1\Ferrari.dll
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\Ferrari\obj\Debug\netcoreapp2.1\Ferrari.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\Ferrari\bin\Debug\netcoreapp2.1\Ferrari.deps.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\Ferrari\bin\Debug\netcoreapp2.1\Ferrari.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\Ferrari\bin\Debug\netcoreapp2.1\Ferrari.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\Ferrari\bin\Debug\netcoreapp2.1\Ferrari.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\Ferrari\bin\Debug\netcoreapp2.1\Ferrari.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\Ferrari\obj\Debug\netcoreapp2.1\Ferrari.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\Ferrari\obj\Debug\netcoreapp2.1\Ferrari.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\Ferrari\obj\Debug\netcoreapp2.1\Ferrari.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\Ferrari\obj\Debug\netcoreapp2.1\Ferrari.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\Ferrari\obj\Debug\netcoreapp2.1\Ferrari.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\Ferrari\obj\Debug\netcoreapp2.1\Ferrari.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\Ferrari\obj\Debug\netcoreapp2.1\Ferrari.genruntimeconfig.cache

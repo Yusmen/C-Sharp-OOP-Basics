@@ -1,0 +1,22 @@
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.deps.json
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.dll
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.pdb
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.dll
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.deps.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.genruntimeconfig.cache

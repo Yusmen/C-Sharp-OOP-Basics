@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\PersonInfo\bin\Debug\netcoreapp2.0\PersonInfo.deps.json
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\PersonInfo\bin\Debug\netcoreapp2.0\PersonInfo.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\PersonInfo\bin\Debug\netcoreapp2.0\PersonInfo.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\PersonInfo\bin\Debug\netcoreapp2.0\PersonInfo.dll
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\PersonInfo\bin\Debug\netcoreapp2.0\PersonInfo.pdb
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\PersonInfo\obj\Debug\netcoreapp2.0\PersonInfo.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\PersonInfo\obj\Debug\netcoreapp2.0\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\PersonInfo\obj\Debug\netcoreapp2.0\PersonInfo.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\PersonInfo\obj\Debug\netcoreapp2.0\PersonInfo.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\PersonInfo\obj\Debug\netcoreapp2.0\PersonInfo.dll
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\PersonInfo\obj\Debug\netcoreapp2.0\PersonInfo.pdb

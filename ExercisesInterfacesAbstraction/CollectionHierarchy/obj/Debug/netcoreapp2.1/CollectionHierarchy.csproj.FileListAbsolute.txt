@@ -1,0 +1,22 @@
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\CollectionHierarchy\bin\Debug\netcoreapp2.1\CollectionHierarchy.deps.json
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\CollectionHierarchy\bin\Debug\netcoreapp2.1\CollectionHierarchy.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\CollectionHierarchy\bin\Debug\netcoreapp2.1\CollectionHierarchy.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\CollectionHierarchy\bin\Debug\netcoreapp2.1\CollectionHierarchy.dll
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\CollectionHierarchy\bin\Debug\netcoreapp2.1\CollectionHierarchy.pdb
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\CollectionHierarchy\obj\Debug\netcoreapp2.1\CollectionHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\CollectionHierarchy\obj\Debug\netcoreapp2.1\CollectionHierarchy.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\CollectionHierarchy\obj\Debug\netcoreapp2.1\CollectionHierarchy.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\CollectionHierarchy\obj\Debug\netcoreapp2.1\CollectionHierarchy.dll
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\CollectionHierarchy\obj\Debug\netcoreapp2.1\CollectionHierarchy.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\CollectionHierarchy\bin\Debug\netcoreapp2.1\CollectionHierarchy.deps.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\CollectionHierarchy\bin\Debug\netcoreapp2.1\CollectionHierarchy.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\CollectionHierarchy\bin\Debug\netcoreapp2.1\CollectionHierarchy.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\CollectionHierarchy\bin\Debug\netcoreapp2.1\CollectionHierarchy.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\CollectionHierarchy\bin\Debug\netcoreapp2.1\CollectionHierarchy.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\CollectionHierarchy\obj\Debug\netcoreapp2.1\CollectionHierarchy.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\CollectionHierarchy\obj\Debug\netcoreapp2.1\CollectionHierarchy.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\CollectionHierarchy\obj\Debug\netcoreapp2.1\CollectionHierarchy.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\CollectionHierarchy\obj\Debug\netcoreapp2.1\CollectionHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\CollectionHierarchy\obj\Debug\netcoreapp2.1\CollectionHierarchy.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\CollectionHierarchy\obj\Debug\netcoreapp2.1\CollectionHierarchy.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\CollectionHierarchy\obj\Debug\netcoreapp2.1\CollectionHierarchy.genruntimeconfig.cache

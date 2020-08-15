@@ -1,0 +1,23 @@
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.deps.json
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.dll
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.pdb
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.dll
+C:\Users\usmenzabanov\source\repos\ExercisesInterfacesAbstraction\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.deps.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\ExercisesInterfacesAbstraction\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.genruntimeconfig.cache
