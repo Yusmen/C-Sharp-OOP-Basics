@@ -1,0 +1,23 @@
+C:\Users\usmenzabanov\source\repos\PolymorphismExercise\ConsoleApp11\obj\Debug\netcoreapp2.1\Vehicles.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\PolymorphismExercise\ConsoleApp11\obj\Debug\netcoreapp2.1\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\PolymorphismExercise\ConsoleApp11\obj\Debug\netcoreapp2.1\Vehicles.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\PolymorphismExercise\ConsoleApp11\obj\Debug\netcoreapp2.1\Vehicles.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\PolymorphismExercise\ConsoleApp11\bin\Debug\netcoreapp2.1\Vehicles.deps.json
+C:\Users\usmenzabanov\source\repos\PolymorphismExercise\ConsoleApp11\bin\Debug\netcoreapp2.1\Vehicles.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\PolymorphismExercise\ConsoleApp11\bin\Debug\netcoreapp2.1\Vehicles.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\PolymorphismExercise\ConsoleApp11\bin\Debug\netcoreapp2.1\Vehicles.dll
+C:\Users\usmenzabanov\source\repos\PolymorphismExercise\ConsoleApp11\bin\Debug\netcoreapp2.1\Vehicles.pdb
+C:\Users\usmenzabanov\source\repos\PolymorphismExercise\ConsoleApp11\obj\Debug\netcoreapp2.1\Vehicles.dll
+C:\Users\usmenzabanov\source\repos\PolymorphismExercise\ConsoleApp11\obj\Debug\netcoreapp2.1\Vehicles.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\PolymorphismExercise\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.deps.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\PolymorphismExercise\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\PolymorphismExercise\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\PolymorphismExercise\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\PolymorphismExercise\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\PolymorphismExercise\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\PolymorphismExercise\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\PolymorphismExercise\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\PolymorphismExercise\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\PolymorphismExercise\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\PolymorphismExercise\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\PolymorphismExercise\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.genruntimeconfig.cache
