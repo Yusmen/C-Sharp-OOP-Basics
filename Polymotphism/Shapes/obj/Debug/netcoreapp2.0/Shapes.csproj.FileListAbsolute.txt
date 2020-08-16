@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\Polymotphism\Shapes\bin\Debug\netcoreapp2.0\Shapes.deps.json
+C:\Users\usmenzabanov\source\repos\Polymotphism\Shapes\bin\Debug\netcoreapp2.0\Shapes.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\Polymotphism\Shapes\bin\Debug\netcoreapp2.0\Shapes.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\Polymotphism\Shapes\bin\Debug\netcoreapp2.0\Shapes.dll
+C:\Users\usmenzabanov\source\repos\Polymotphism\Shapes\bin\Debug\netcoreapp2.0\Shapes.pdb
+C:\Users\usmenzabanov\source\repos\Polymotphism\Shapes\obj\Debug\netcoreapp2.0\Shapes.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Polymotphism\Shapes\obj\Debug\netcoreapp2.0\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Polymotphism\Shapes\obj\Debug\netcoreapp2.0\Shapes.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\Polymotphism\Shapes\obj\Debug\netcoreapp2.0\Shapes.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\Polymotphism\Shapes\obj\Debug\netcoreapp2.0\Shapes.dll
+C:\Users\usmenzabanov\source\repos\Polymotphism\Shapes\obj\Debug\netcoreapp2.0\Shapes.pdb

@@ -1,0 +1,10 @@
+C:\Users\usmenzabanov\source\repos\Polymotphism\Operartions\obj\Debug\netcoreapp2.1\Operartions.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Polymotphism\Operartions\obj\Debug\netcoreapp2.1\Operartions.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\Polymotphism\Operartions\obj\Debug\netcoreapp2.1\Operartions.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\Polymotphism\Operartions\bin\Debug\netcoreapp2.1\Operartions.deps.json
+C:\Users\usmenzabanov\source\repos\Polymotphism\Operartions\bin\Debug\netcoreapp2.1\Operartions.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\Polymotphism\Operartions\bin\Debug\netcoreapp2.1\Operartions.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\Polymotphism\Operartions\bin\Debug\netcoreapp2.1\Operartions.dll
+C:\Users\usmenzabanov\source\repos\Polymotphism\Operartions\bin\Debug\netcoreapp2.1\Operartions.pdb
+C:\Users\usmenzabanov\source\repos\Polymotphism\Operartions\obj\Debug\netcoreapp2.1\Operartions.dll
+C:\Users\usmenzabanov\source\repos\Polymotphism\Operartions\obj\Debug\netcoreapp2.1\Operartions.pdb
