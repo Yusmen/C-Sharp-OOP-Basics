@@ -22,7 +22,7 @@ namespace WildFarm
 
         public override void Eat(int quantity)
         {
-            this.Weight += 0.30*quantity;
+            this.Weight += 0.30 * quantity;
             FoodEaten += quantity;
         }
         public override string ToString()

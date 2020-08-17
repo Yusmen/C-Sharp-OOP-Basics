@@ -10,3 +10,15 @@ C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\PolymorphismExercise\Wild
 C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.dll
 C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.pdb
 C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.genruntimeconfig.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\PolymorphismExercise\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.deps.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\PolymorphismExercise\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\PolymorphismExercise\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\PolymorphismExercise\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\PolymorphismExercise\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.dll
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\C-Sharp-OOP-Basics\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.genruntimeconfig.cache

@@ -21,6 +21,10 @@ namespace WildFarm
             this.Weight += 0.40 * quantity;
             FoodEaten += quantity;
         }
+        public override string ToString()
+        {
+            return $"Dog [{Name}, {Weight}, {LivingRegion}, {FoodEaten}]";
+        }
 
     }
 }

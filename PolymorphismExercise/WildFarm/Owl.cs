@@ -16,9 +16,14 @@ namespace WildFarm
             Console.WriteLine("Hoot Hoot");
         }
 
-        public override void Eat()
+        public override void Eat(int quantity)
         {
-            this.Weight += 0.25;
+            this.Weight += 0.25 * quantity;
+            FoodEaten += quantity;
+        }
+        public override string ToString()
+        {
+            return $"Owl [{Name}, {WingSize}, {Weight}, {FoodEaten}]";
         }
     }
 }

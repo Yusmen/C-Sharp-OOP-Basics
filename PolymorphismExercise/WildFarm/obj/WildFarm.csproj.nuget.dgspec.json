@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\PolymorphismExercise\\WildFarm\\WildFarm.csproj": {}
+    "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\C-Sharp-OOP-Basics\\PolymorphismExercise\\WildFarm\\WildFarm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\PolymorphismExercise\\WildFarm\\WildFarm.csproj": {
+    "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\C-Sharp-OOP-Basics\\PolymorphismExercise\\WildFarm\\WildFarm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\PolymorphismExercise\\WildFarm\\WildFarm.csproj",
+        "projectUniqueName": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\C-Sharp-OOP-Basics\\PolymorphismExercise\\WildFarm\\WildFarm.csproj",
         "projectName": "WildFarm",
-        "projectPath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\PolymorphismExercise\\WildFarm\\WildFarm.csproj",
+        "projectPath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\C-Sharp-OOP-Basics\\PolymorphismExercise\\WildFarm\\WildFarm.csproj",
         "packagesPath": "C:\\Users\\Yusmen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\PolymorphismExercise\\WildFarm\\obj\\",
+        "outputPath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\C-Sharp-OOP-Basics\\PolymorphismExercise\\WildFarm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yusmen\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -17,9 +17,14 @@ namespace WildFarm
         {
             Console.WriteLine("ROAR!!!");
         }
-        public override void Eat()
+        public override void Eat(int quantity)
         {
-            this.Weight += 1.00;
+            this.Weight += 1.00 * quantity;
+            FoodEaten += quantity;
+        }
+        public override string ToString()
+        {
+            return $"Tiger [{Name}, {Breed}, {Weight}, {LivingRegion}, {FoodEaten}]";
         }
     }
 }

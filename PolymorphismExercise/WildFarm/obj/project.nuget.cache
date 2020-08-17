@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NsRk4z3JXY5wzamDoFo/WkUr+4UqW0vlt51+vEx7mQZujzL2YWMlczMASJ55dwPuNAS3UqxDoMrQZlitrA/5ZA==",
+  "dgSpecHash": "aDohZfYDE7xBwqqDOyz4TIo+FZD6W3/esyAeL4tR5w2DzoLoFKml+ADxjWvTQ6DmjeE5CFS5rk6Sd4ZnVpVwSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\PolymorphismExercise\\WildFarm\\WildFarm.csproj",
+  "projectFilePath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\C-Sharp-OOP-Basics\\PolymorphismExercise\\WildFarm\\WildFarm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yusmen\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\Yusmen\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
